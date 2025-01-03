@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.main{
+	background-color: #f5f5f5;
+	padding: 30px 5% 5%;
+}
+
+.box1{
+	padding: 10px 2% 2%;
+	border: 2px ridge;
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	align-content: end;
+}
+.box2{
+	padding: 10px 2% 2%;
+	border: 2px ridge;
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	
+}
